@@ -1,0 +1,60 @@
+.dog-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.dog-item {
+  border: 1px solid black;
+  padding: 1em;
+}
+
+.dog-item img {
+  width: 5em;
+  height: auto;
+}
+
+.option:focus,
+.option:hover {
+  background-color: lightgray;
+  border: 1px solid black;
+}
+
+.age-1 {
+  background-color: rgb(255, 74, 74);
+}
+
+.age-2 {
+  background-color: orange;
+}
+
+.age-3 {
+  background-color: yellow;
+}
+
+.age-4 {
+  background-color: rgb(86, 163, 86);
+}
+
+.age-5 {
+  background-color: rgb(119, 119, 255);
+}
+
+.age-6 {
+  background-color: rgb(177, 85, 243);
+}
+
+.age-7 {
+  background-color: violet;
+}
+
+.age-8 {
+  background-color: pink;
+}
+
+.age-9 {
+  background-color: lightgreen;
+}
+
+.age-10 {
+  background-color: lightblue;
+}
